@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "884003486238",
+    "project_id": "etec3-5",
+    "storage_bucket": "etec3-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884003486238:android:caea414e41652ec99a8c0f",
+        "android_client_info": {
+          "package_name": "com.example.etecfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884003486238-fvpdrjq9g6rmospjq01lntkqm7efhjm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs2p4V2koDsni9d-jAcJNenlgtWX-Oc0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884003486238-fvpdrjq9g6rmospjq01lntkqm7efhjm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884003486238:android:fc3b66b1c8deeb9e9a8c0f",
+        "android_client_info": {
+          "package_name": "com.example.etectfirebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884003486238-fvpdrjq9g6rmospjq01lntkqm7efhjm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs2p4V2koDsni9d-jAcJNenlgtWX-Oc0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884003486238-fvpdrjq9g6rmospjq01lntkqm7efhjm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
